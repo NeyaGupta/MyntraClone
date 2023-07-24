@@ -1,0 +1,30 @@
+.flex{
+    display : flex;
+}
+
+.item-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.space-between{
+    justify-content: space-between;
+    height: 50px; 
+    font-weight: bold;
+}
+.mx-2{
+    padding: 13px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.itemImg{
+    width: 18vw;
+    height: 15vw;
+    margin: 6px 12px;
+}
+.flex-wrap{
+    flex-wrap: wrap;
+
+} 
+
